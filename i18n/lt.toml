@@ -75,6 +75,8 @@ temp = "Temperatūra"
 topic = "Tema"
 url = "URL"
 yes = "taip"
+currentRange = "Srovė"
+powerRange = "Galia"
 
 [config.eebus]
 description = "Konfigūracija, leidžianti evcc susisiekti su kitais EEBus įrenginiais."
@@ -563,6 +565,7 @@ unknown = ""
 vehicleLimit = "Automobilyje nustatytas limitas."
 vehicleLimitReached = "Automobilyje nustatytas limitas pasiektas."
 waitForVehicle = "Paruošta. Laukiama automobilio..."
+welcome = "Trumpas pirminis įkrovimas jungties patikrinimui."
 
 [notifications]
 dismissAll = "Išvalyti visus"
@@ -717,3 +720,8 @@ title = "Klaida startuojant"
 cancel = "Atšaukti"
 template = "Gamintojas"
 test = "Testuoti"
+
+
+[config.options.boolean]
+yes = "taip"
+no = "ne"
