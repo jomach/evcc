@@ -558,6 +558,7 @@ unknown = ""
 vehicleLimit = "Køretøjets grænse"
 vehicleLimitReached = "Køretøjets grænse er nået."
 waitForVehicle = "Parat. Venter på køretøj ..."
+welcome = "Kort indledende opladning for at bekræfte forbindelsen."
 
 [notifications]
 dismissAll = "Afvis alle"
@@ -706,3 +707,8 @@ title = "Fejl ved opstart"
 cancel = "Afbryd"
 template = "Producent"
 test = "Test"
+
+
+[config.options.boolean]
+no = "nej"
+yes = "ja"
